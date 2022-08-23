@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/social-shopping-web/static/css/main.d796e570.chunk.css",
+    "main.js": "/social-shopping-web/static/js/main.860f193a.chunk.js",
+    "main.js.map": "/social-shopping-web/static/js/main.860f193a.chunk.js.map",
+    "runtime-main.js": "/social-shopping-web/static/js/runtime-main.a9e38e5f.js",
+    "runtime-main.js.map": "/social-shopping-web/static/js/runtime-main.a9e38e5f.js.map",
+    "static/js/2.3427c4ec.chunk.js": "/social-shopping-web/static/js/2.3427c4ec.chunk.js",
+    "static/js/2.3427c4ec.chunk.js.map": "/social-shopping-web/static/js/2.3427c4ec.chunk.js.map",
+    "index.html": "/social-shopping-web/index.html",
+    "static/css/main.d796e570.chunk.css.map": "/social-shopping-web/static/css/main.d796e570.chunk.css.map",
+    "static/js/2.3427c4ec.chunk.js.LICENSE.txt": "/social-shopping-web/static/js/2.3427c4ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9e38e5f.js",
+    "static/js/2.3427c4ec.chunk.js",
+    "static/css/main.d796e570.chunk.css",
+    "static/js/main.860f193a.chunk.js"
+  ]
+}
